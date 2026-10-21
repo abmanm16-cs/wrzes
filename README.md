@@ -44,8 +44,8 @@ I'm a passionate **Frontend & Full-Stack Developer** and a 3rd-year Computer Sci
 
 ### 📫 Connect With Me
 
-- **GitHub:** [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-- **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
-- **Email:** your.email@example.com
+- **GitHub:** [github.com/YOUR_GITHUB_USERNAME](https://github.com/abmanm16-cs)
+- **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](www.linkedin.com/in/abnet-molla-7aa8363ba)
+- **Email:** abmanm16@gmail.com
 
 ⭐️ *Feel free to reach out if you'd like to collaborate on exciting web development or AI-powered projects!*
